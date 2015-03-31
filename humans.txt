@@ -1,7 +1,7 @@
 /* AUTHOR */
 
 	Master Chef: Kate Travers
-	Contact: travers [dot] kt [at] gmail.com
+	Contact: kate [at] kate-travers [dot] com
 	Twitter: @kttravers
 	Github: ktravers
 	From: Brooklyn, New York
